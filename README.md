@@ -1,3 +1,6 @@
+  [Video Link](https://www.youtube.com/watch?v=dkI4aiwul4E)<br>
+  [Repository](https://github.com/dannfirefight322/TeamGenerator)
+  
   # Title: Team Generator
   ## Table Of  Contents
   1.[Description](#desc)</br>
@@ -27,6 +30,6 @@
   ### NONE
   # <span id="ques"></span>
   # Questions
-  ### Github: https://github.com/dannfirefight322/TeamGenerator 
+  ### Github: https://github.com/dannfirefight322/ 
   ### Email: amery.bur410@gmail.com
   

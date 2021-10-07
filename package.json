@@ -19,5 +19,9 @@
   "homepage": "https://github.com/dannfirefight322/TeamGenerator#readme",
   "dependencies": {
     "inquirer": "^8.1.5"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
 }
